@@ -5,7 +5,7 @@ This project in C++ is made to use Big Int without limit.
 The InfInt made of unlimited digits, and supported by every operator that is made for Integers, 
 
 Decimal supported operators: 
-=, * , - , + , +=, < , > , <= , >= , -= , / , %  
+=, * , - , + , +=, < , > , <= , >= , -= , / , %  , ++ , -- , input and output 
 
 Binary supported operators: 
 & , ^ , | , &= , >> , << , >>=  
